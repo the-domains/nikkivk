@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.06176154
 color:
   saturation: 0.8763145
-  brandStrength: 0.953276
+  brandStrength: 1
   lightness: 0.228697
   brandColors:
-    - '#5D87C7'
-    - '#FCDEB4'
-    - '#5D3A27'
-    - '#9BB2D0'
-    - '#9A877F'
+    - '#F3F3F3'
+    - '#C5BDB2'
+    - '#231419'
+    - '#5F5764'
+    - '#B4563A'
   rhythmicContrast: 0.2863292
+typography_spectrum: 0.06750299
 layout_spectrum: 0.9146079
 name: NikkiVK
